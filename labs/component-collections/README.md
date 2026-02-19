@@ -274,6 +274,11 @@ Install a component collection in a new agent and verify that shared editing wor
 
 1. Go to the **Installed** tab in the menu. Notice that **Travel Tools** is now listed as installed in both your new agent and the Safe Travels agent.
 
+<<<<<<< HEAD
+=======
+1. Notice that **Travel Tools** is now listed as installed in both your new agent and the Safe Travels agent.
+
+>>>>>>> 55d73bb (Updates from testing)
 1. Close the Settings menu by selecting the **X** in the upper right corner.
 
 1. Notice that you now have the knowledge and topic from Safe Travels available in your new agent as well.
